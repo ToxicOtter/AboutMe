@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Luan Lima Lopes!</h1>
+<h1 align="center">Heeeeeey there 👋, I'm Luan Lima Lopes!</h1>
 <h3 align="center">A begginer fullstack developer!</h3>
 
-<p align="center"> <a href="https://twitter.com/mr_toxicottter" target="blank"><img src="https://img.shields.io/twitter/follow/mr_toxicottter?logo=twitter&style=for-the-badge" alt="mr_toxicottter" /></a> </p>
+- 🌱 I’m currently learning **Java**, **DOTNET** and **SQL**.
 
-- 🌱 I’m currently learning **React.js and Backend technologies.**
+<div style="display: inline-block; align=center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toxicotter&show_icons=true&theme=tokyonight" alt="toxicotter" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxicotter&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toxicotter" />
+</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,9 +32,3 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxicotter&show_icons=true&locale=en&layout=compact" alt="toxicotter" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicotter&show_icons=true&theme=dark)" alt="toxicotter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxicotter&date_format=M%20j%5B%2C%20Y%5D)" alt="toxicotter" /></p>
